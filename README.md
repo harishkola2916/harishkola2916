@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Harish's github stats](https://github-readme-stats.vercel.app/api?username=harishkola2916&include_all_commits=true)](https://github.com/harishkola2916/github-readme-stats)
+
 [![Harish's github stats](https://github-readme-stats.vercel.app/api?username=harishkola2916)](https://github.com/harishkola2916/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishkola2916&layout=compact)](https://github.com/harishkola2916/github-readme-stats)
