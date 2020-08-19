@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Harish
 
 
- -🔭 I’m currently working as a Software Engineer. I like to know and learn new technologies always, so whenever I get time, I will try out with coding.
+ -🔭 I’m currently working as a Software Engineer. I always like to learn new technologies, so whenever I get time, I will try out with coding.
  👯 I’m looking to collaborate on open source projects. Please reach out to me in case if you ever want to collaborate with me.
  
  Technologies & tools:
